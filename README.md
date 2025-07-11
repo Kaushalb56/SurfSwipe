@@ -2,6 +2,8 @@
 
 A fun computer vision project that lets you play games like **Subway Surfer** or **Temple Run** using your hand gestures through your webcam.
 
+hand_control.py is the main file
+
 ## 🚀 Features
 - Control actions using simple hand gestures:
   - 👆 Jump (Index + Middle fingers up)
@@ -24,4 +26,5 @@ CHECKOUT LinkedIn for demo video
 ## 🛠️ Setup
 ```bash
 pip install -r requirements.txt
-python main.py
+python hand_control.py
+
